@@ -78,3 +78,12 @@
   transform: translate(-50%, -50%) scale(0.5);
   z-index: 4;
 }
+
+footer {
+  text-align: center;
+  color: black;
+  height: 3rem;
+  padding-bottom: 2rem;
+  text-decoration: none;
+  align-self: center;
+}
